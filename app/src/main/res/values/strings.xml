@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Superlocal Weather Forecast</string>
+    <string name="api_key"><!-- get your api key from https://forecast.io and paste it here --></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">waiting for a forecast to arrive...</string>
+    <string name="title_summary">Summary</string>
+    <string name="timezone_title">Timezone: </string>
+    <string name="latitude_title">Latitude: </string>
+    <string name="longitude_title">Longitude: </string>
+    <string name="offset_title">Offset: </string>
+    <string name="dialogTitle">Please wait...</string>
+    <string name="dialogMessage">retrieving forecast for your location</string>
+</resources>
